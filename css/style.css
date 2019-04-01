@@ -1,0 +1,367 @@
+/*/*Home*/
+body{ 
+	background:url('../img/back.png');
+	width: 1024px auto;
+	height: 600px;
+	background-size: cover;
+	background-position: center;
+	font-family: sans-serif;
+	padding:0px;
+	margin: 0px;
+}
+
+.logo img{float: left;
+	width: 11%;
+           height: 130px;	  
+}
+.nav{ float: left;
+	list-style: none;
+	background: black;
+	width: 79%;
+	height: 130px;
+
+}
+.sir{width: 9.4%;
+	background: url('../img/sir.jpg');
+	background-size: cover;
+	border:5px black solid;
+	border-radius: 10%;
+	float: right;
+	color: white;
+	height: 120px;
+
+}
+.sir p {
+	width: 41%;
+	border: 1px white solid;
+	border-radius: 2% ;
+	margin-left: 45px;
+	margin-top: 100px;
+}
+.sir p:hover{
+
+	background:white;
+	color:red;
+}
+.sir a{
+	text-decoration: none;
+	color:blue;
+}
+.nav li{
+	font-size: 30px;
+	font-family: sans-serif;
+	display: inline-block;
+
+}
+.nav li a{
+	text-decoration: none;
+	color: blue;
+}
+.nav li:hover{
+	border: 1px blue solid;
+	border-radius: 10px;
+	background: white;
+	color: blue;
+}
+.op{
+	padding: 10px 10px;
+	margin-left: 150px;
+	margin-top: 30px;
+}
+.box{
+
+    margin-left: 100px;
+	width: 30%;
+	float:left;
+	height: 800px;
+	background:#EC9B3B;
+	padding:10px 0px 0px 0px;
+}
+.box:hover{
+	background:url('../img/back.png');
+	background-position: left;
+
+}
+.box img{margin-left: 80px;
+	width: 70%;
+
+}
+.student-head{
+	background: white;
+	color: black;
+	height: 35px;
+}
+.information{
+	color: white;
+	font-family: italic;
+	padding-top: 10px;
+
+}
+
+.information:hover{
+	color: #EC9B3B;
+}
+.box1{
+	float: right;
+    margin-left: 350px;
+	width: 30%;
+	float:left;
+	height: 800px;
+	background:#4FACFF;
+	padding:10px 0px 0px 0px;
+}
+.box1:hover{
+	background:url('../img/back.png');
+	background-position: left;
+
+}
+.box1 img{margin-left: 80px;
+	width: 70%;
+
+}
+.box1 h1:hover{color: #4FACFF;
+
+}
+
+/*Student*/
+
+
+.navi{ float: left;
+	list-style: none;
+	background: black;
+	width: 89%;
+	height: 130px;
+
+}
+
+.navi li{
+	font-size: 30px;
+	font-family: sans-serif;
+	display: inline-block;
+
+}
+.navi li a{
+	text-decoration: none;
+	color: blue;
+}
+.navi li:hover{
+	border: 1px blue solid;
+	border-radius: 10px;
+	background: white;
+	color: blue;
+}
+.ops{
+	padding: 10px 10px;
+	margin-left: 150px;
+	margin-top: 30px;
+}
+.student1{
+margin-left: 100px;
+	width: 30%;
+	float:left;
+	font-size: 13px;
+	height: 700px;
+	background:#E0BFD4;
+	padding:30px 0px;
+}
+.student1:hover{
+
+	background:url('../img/back.png');
+	background-position: left;
+}
+
+.student1 img{
+	margin-left: 60px;
+	width: 70%;
+}
+
+.stde1{background: white;
+	color: black;
+	height: 35px;
+}
+.std1{
+
+	color: white;
+	font-family: italic;
+	padding-top: 10px;
+}
+.std1:hover{
+	color: #E0BFD4;
+}
+
+.student2{
+margin-left: 130px;
+	width: 30%;
+	float:right;
+	margin-right: 100px;
+	font-size: 13px;
+	height: 755px;
+	background:#7F78DF;
+	padding:10px 0px 0px 0px;
+}
+.student2:hover{
+
+	background:url('../img/back.png');
+	background-position: left;
+}
+
+.student2 img{
+	margin-left: 60px;
+	width: 70%;
+}
+
+.stde2{background: white;
+	color: black;
+	height: 35px;
+}
+.std2{
+
+	color: white;
+	font-family: italic;
+	padding-top: 10px;
+}
+.std2:hover{
+	color: #7F78DF;
+}
+
+.student3{
+	margin-top: 30px;
+margin-left: 100px;
+	width: 30%;
+	float:left;
+	margin-right: 110px;
+	font-size: 13px;
+	height: 755px;
+	background:#FB2525;
+	padding:10px 0px 0px 0px;
+}
+.student3:hover{
+
+	background:url('../img/back.png');
+	background-position: left;
+}
+
+.student3 img{
+	margin-left: 60px;
+	width: 70%;
+}
+
+.stde3{background: white;
+	color: black;
+	height: 35px;
+}
+.std3{
+
+	color: white;
+	font-family: italic;
+	padding-top: 10px;
+}
+.std3:hover{
+	color: #FB2525;
+}
+
+.student4{
+	margin-top: 30px;
+margin-left: 100px;
+	width: 30%;
+	float:right;
+	margin-right: 100px;
+	font-size: 13px;
+	height: 755px;
+	background:#EB9A38;
+	padding:10px 0px 0px 0px;
+}
+.student4:hover{
+
+	background:url('../img/back.png');
+	background-position: left;
+}
+
+.student4 img{
+	margin-left: 60px;
+	width: 70%;
+}
+
+.stde4{background: white;
+	color: black;
+	height: 35px;
+}
+.std4{
+
+	color: white;
+	font-family: italic;
+	padding-top: 10px;
+}
+.std4:hover{
+	color: #EB9A38;
+}
+.student5{
+	margin-top: 30px;
+margin-left: 100px;
+	width: 30%;
+	float:left;
+	margin-right: 100px;
+	font-size: 13px;
+	height: 755px;
+	background:#01BAFD;
+	padding:10px 0px 0px 0px;
+}
+.student5:hover{
+
+	background:url('../img/back.png');
+	background-position: left;
+}
+
+.student5 img{
+	margin-left: 60px;
+	width: 70%;
+}
+
+.stde5{background: white;
+	color: black;
+	height: 35px;
+}
+.std5{
+
+	color: white;
+	font-family: italic;
+	padding-top: 10px;
+}
+.std5:hover{
+	color: #01BAFD;
+}
+.student6{
+	margin-top: 30px;
+margin-left: 235px;
+	width: 30%;
+	float:left;
+	margin-right: 100px;
+	font-size: 13px;
+	height: 755px;
+	background:#828E9A;
+	padding:10px 0px 0px 0px;
+}
+.student6:hover{
+
+	background:url('../img/back.png');
+	background-position: left;
+}
+
+.student6 img{
+	margin-left: 60px;
+	width: 70%;
+}
+
+.stde6{background: white;
+	color: black;
+	height: 35px;
+}
+.std6{
+
+	color: white;
+	font-family: italic;
+	padding-top: 10px;
+}
+.std6:hover{
+	color: #828E9A;
+}
